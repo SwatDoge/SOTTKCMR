@@ -4,8 +4,8 @@
 // @author       Swat
 // @match        https://krunker.io/editor.html
 // @match        https://krunker.io/scripting.html
-// @updateURL    https://github.com/SwatDoge/SOTT-Quick-Krunkscript-Docs/raw/main/tampermonkey/userscript.user.js
-// @downloadURL  https://github.com/SwatDoge/SOTT-Quick-Krunkscript-Docs/raw/main/tampermonkey/userscript.user.js
+// @updateURL    https://github.com/SwatDoge/SOTTKCMR/raw/refs/heads/master/userscript.user.js
+// @downloadURL  https://github.com/SwatDoge/SOTTKCMR/raw/refs/heads/master/userscript.user.js
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
