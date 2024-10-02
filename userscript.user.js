@@ -11,7 +11,7 @@
 // ==/UserScript==
 
 new MutationObserver(async (mutations, observer) => {
-    mutations.forEach(el => el.addedNodes.forEach(node => node.src &&= node.src.replace("codemirror.net", "codemirror-mirror.swatdo.ge")));
+    mutations.forEach(el => el.addedNodes.forEach(node => node.src &&= node.src.replace("codemirror.net", "codemirror-mirror.swatdoge.eu")));
 }).observe(document, {
     childList: true,
     subtree: true,
